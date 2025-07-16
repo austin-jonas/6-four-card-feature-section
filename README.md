@@ -8,7 +8,7 @@ A mobile-first, responsive four-card feature section showcasing AI-powered tools
 
 ## Demo
 
-[View Live Project](https://6-four-card-feature-section-three.vercel.app/)
+[View Live Project](https://6-four-card-feature-section-kappa.vercel.app/)
 
 ## Project Structure
 
@@ -33,6 +33,6 @@ To run the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/austin-jonas/5-product-preview-card-component.git
+   git clone https:https://github.com/austin-jonas/6-four-card-feature-section.git
    ```
 2. Open index.html in a browser.
